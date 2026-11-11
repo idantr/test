@@ -4,7 +4,7 @@ kind: Solution
 metadata:
   name: hello-world-d6814
   version: "1.0.0"
-  description: A simple Hello World full-stack application with a CAP backend and React UI on SAP BTP.
+  description: A simple Hello World AI agent that responds to any message with a friendly reply.
 
 assets:
-  - ref: ./assets/hello-world-cap-app/asset.yaml
+  - ref: ./assets/hello-world-agent/asset.yaml
