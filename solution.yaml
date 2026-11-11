@@ -1,0 +1,10 @@
+apiVersion: solution.sap/v1
+kind: Solution
+
+metadata:
+  name: hello-world-a7c11
+  version: 1.0.0
+  description: A simple Hello World full-stack application with a CAP backend and React UI on SAP BTP.
+
+assets:
+  - ref: ./assets/hello-world-cap-app/asset.yaml
