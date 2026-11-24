@@ -4,6 +4,7 @@ type: agent
 
 metadata:
   name: hello-world-agent
+  description: A simple Hello World agent that responds with Hello to any user message.
 
 provides:
   apis:
